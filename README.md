@@ -76,8 +76,8 @@
 ---
 
 ## 📫 Contact
-- 📧 Email: *（你可自行填寫）*  
-- 💼 Portfolio: *（可放 GitHub Pages 或個人網站）*  
+- 📧 Email: yappy99123@gmail.com
+- 💼 Portfolio: [個人網站](https://wayne0917.github.io/Resume.io/)
 
 ---
 
