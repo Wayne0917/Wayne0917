@@ -3,7 +3,7 @@
 🔥 一位正在努力轉職成為 **前端工程師** 的開發者  
 💻 熟悉：HTML5 / CSS3 / JavaScript / jQuery / Git  
 ⚡ 正在深入：React、Java、ASP.NET、金融科技技術  
-🎯 目標：成為金融業前端工程師，並進一步挑戰 App 開發
+🎯 目標：成為前端工程師，並進一步挑戰 App 開發
 
 ---
 
@@ -23,12 +23,10 @@
 - jQuery
 - RWD、Flexbox、Grid
 - Fetch / Axios
-- Webpack（練習使用中）
 
 ### ⚛️ Learning
 - React（已進入實作階段）
-- Java（語法速成 + 金融小專案）
-- ASP.NET（目標考取專業人員證照）
+-TypeScript（已進入實作階段）
 
 ### 🗂 Tools
 - Git / GitHub
