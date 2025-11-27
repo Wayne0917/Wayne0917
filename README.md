@@ -26,7 +26,7 @@
 
 ### ⚛️ Learning
 - React（已進入實作階段）
--TypeScript（已進入實作階段）
+- TypeScript（已進入實作階段）
 
 ### 🗂 Tools
 - Git / GitHub
