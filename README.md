@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Wayne!
 
 🔥 一位正在努力轉職成為 **前端工程師** 的開發者  
-💻 熟悉：HTML5 / CSS3 / JavaScript / jQuery / Git  
-⚡ 正在深入：React、Java、ASP.NET、金融科技技術  
+💻 熟悉：HTML5 / CSS3 / JavaScript / jQuery / Git / TypeScript 
+⚡ 正在深入：React
 🎯 目標：成為前端工程師，並進一步挑戰 App 開發
 
 ---
